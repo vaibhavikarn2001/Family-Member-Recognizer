@@ -1,0 +1,13 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+}
+.container{
+    margin:5%;
+    background-color:#ff7086;
+    border-radius: 50px;
+}
+ol{
+    background:#fc7e9b;
+}
